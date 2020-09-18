@@ -1,0 +1,14 @@
+.rodape-card {
+  color: blue;
+  height: 35px;
+}
+
+.card-text {
+  max-height: 100px;
+  overflow: hidden;
+}
+
+.img-cartao {
+  max-height: 200px;
+  min-width: 100%;
+}
